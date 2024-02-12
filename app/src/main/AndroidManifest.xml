@@ -50,7 +50,8 @@
             android:exported="false" />
         <activity
             android:name=".LoginAndRegister.LoginActivity"
-            android:exported="false" />
+            android:exported="false"/>
+<!--            android:screenOrientation="sensorLandscape"/>-->
 
         <activity
             android:name=".splash.MainActivity"
