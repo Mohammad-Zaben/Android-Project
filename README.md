@@ -22,10 +22,11 @@ Programming Language:
 Development Environment:
 - Android Studio 
 - Postman
-- PyCharm
+- VS Code
 
 User Interface: 
 - XML layouts
+
 Database: 
 - MySQl 
 
