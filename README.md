@@ -16,7 +16,7 @@ The Android project is a mobile application developed using Java and Android Stu
 
 # Technology Stack
 Programming Language:
-- Java <img src='https://www.macworld.com/wp-content/uploads/2023/01/learn_java_on_mac.jpg?quality=50&strip=all' alt="ttt" width=40 >
+- Java 
 - Python
 
 Development Environment:
@@ -37,5 +37,8 @@ Backend:
 2. Open the project in Android Studio.
 3. Ensure you have the necessary SDKs and dependencies installed.
 4. Set up any required configuration files (e.g.DataBase, Python falsk).
+
+#Check out our review video to see how we've crafted seamless functionality and user experience.
+<img src="https://github.com/Mohammad-Zaben/BZU-Notification/assets/141401082/35f47c1d-da87-4ea9-83df-deff04caf503" alt="" >
 
 
