@@ -1,4 +1,4 @@
-# Final Project for android course
+# Final Project for android course :BZU Notification
 
 ## OverView
 The Android project is a mobile application developed using Java and Android Studio, and aims to provide Birzeit University students in particular by registering them in their subjects in that semester, adding their assignments in that course, such as projects, exams, etc., and sending them notifications of the important date. The student can delete the course after completing it at the end of the semester. With a focus on sending notifications and alerting students when an assignment is due, this project aims to provide a smooth and easy-to-use experience for its users.
@@ -17,7 +17,7 @@ The Android project is a mobile application developed using Java and Android Stu
    
 # Technology Stack
 Programming Language:
-- Java
+- Java <img src='https://github.com/Anan-Elayan/Android-Project/assets/99610614/b15df647-f799-491e-abbd-691b00a84823' alt="ttt" width=40 >
 - Python
 
 Development Environment:
