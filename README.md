@@ -38,8 +38,8 @@ Backend:
 3. Ensure you have the necessary SDKs and dependencies installed.
 4. Set up any required configuration files (e.g.DataBase, Python falsk).
 
-#Check out our review video to see how we've crafted seamless functionality and user experience.
-<img src="https://github.com/Mohammad-Zaben/BZU-Notification/assets/141401082/35f47c1d-da87-4ea9-83df-deff04caf503" alt="" width=100 > <img src="https://github.com/Mohammad-Zaben/BZU-Notification/assets/141401082/35f47c1d-da87-4ea9-83df-deff04caf503" alt="" width=100 >
+<img src="https://github.com/Mohammad-Zaben/BZU-Notification/assets/141401082/35f47c1d-da87-4ea9-83df-deff04caf503" alt="" width=500 > 
+<img src="https://github.com/Mohammad-Zaben/BZU-Notification/assets/141401082/35f47c1d-da87-4ea9-83df-deff04caf503" alt="" width=500 >
 
 
 
