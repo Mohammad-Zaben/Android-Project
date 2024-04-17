@@ -14,10 +14,9 @@ The Android project is a mobile application developed using Java and Android Stu
 7. can chage the theam app.
 8. can change the oreantation screen app.
 
-   
 # Technology Stack
 Programming Language:
-- Java <img src='https://github.com/Anan-Elayan/Android-Project/assets/99610614/b15df647-f799-491e-abbd-691b00a84823' alt="ttt" width=40 >
+- Java <img src='https://www.macworld.com/wp-content/uploads/2023/01/learn_java_on_mac.jpg?quality=50&strip=all' alt="ttt" width=40 >
 - Python
 
 Development Environment:
